@@ -1,1 +1,5 @@
-# javascript-1
+<!-- @format -->
+
+# Welcome to my JavaScript Project
+
+JS is awesome!
